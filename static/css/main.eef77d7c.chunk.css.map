@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACI,qBAAsB,CACtB,SAAU,CACV,QACJ,CAEA,UACI,mCACJ","file":"main.eef77d7c.chunk.css","sourcesContent":["* {\r\n    box-sizing: border-box;\r\n    padding: 0;\r\n    margin: 0;\r\n}\r\n\r\nhtml, body {\r\n    font-family: 'Kumbh Sans', sans-serif;\r\n}"]}
